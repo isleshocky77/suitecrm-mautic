@@ -1,0 +1,21 @@
+{
+  "name": "isleshocky77/suitecrm-mautic",
+  "description": "Package for integrating Mautic into SuiteCrm",
+  "homepage": "https://github.com/isleshocky77/suitecrm-mautic",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Stephen Ostrow",
+      "email": "stephen@ostrow.tech",
+      "homepage": "http://ostrow.tech",
+      "role": "Developer"
+    }
+  ],
+
+  "type": "suitecrm-module",
+
+  "require": {
+    "isleshocky77/suitecrm-modules-installer": "dev-master",
+    "mautic/api-library": "^2.15"
+  }
+}
